@@ -1,7 +1,0 @@
-# Name,GroupName,EndA_x,EndA_y,EndA_z,EndB_x,EndB_y,EndB_z,nNode,eType,SesFileName
-MORISON-COL-E,MORISON-COL-E,45,0,0,45,0,30,2,shell,morison.ses
-MORISON-COL-NW,MORISON-COL-NW,-21.7,38.5,0,-21.7,38.5,30,2,shell,morison.ses
-MORISON-COL-SW,MORISON-COL-SW,-21.7,-38.5,0,-21.7,-38.5,30,2,shell,morison.ses
-MORISON-PTN-W,MORISON-PTN-W,-21.7,30.5,2.5,-21.7,-30.5,2.5,2,shell,morison.ses
-MORISON-PTN-S,MORISON-PTN-S,-14.8,-34.5,2.5,38.02754963,-4,2.5,2,shell,morison.ses
-MORISON-PTN-N,MORISON-PTN-N,38.1,4,2.5,-14.72754963,34.5,2.5,2,shell,morison.ses
