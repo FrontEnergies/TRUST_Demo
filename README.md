@@ -4,7 +4,7 @@ TRUST is the time-domain structural analysis tool suite for offshore floating pl
 
 This github is for distribution of TRUST demo package.
 
-Released package : 
+# Released package : 
 
 EP1 : TRUST application with OrcaFlex results for ULS and FLS analyses
 
