@@ -6,6 +6,6 @@ This github is for distribution of TRUST demo package.
 
 # Released package : 
 
-EP1 : TRUST application with OrcaFlex results for ULS and FLS analyses
+- EP1 : TRUST application with OrcaFlex results for ULS and FLS analyses
 
 
